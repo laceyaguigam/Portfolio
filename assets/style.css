@@ -14,10 +14,13 @@
  
  
  
- Header
+ /* Header */
  /* Navigation   */
  /* About Me  */
 
+ #about-me {
+    background-color: #00AA9D ;
+}
 
 
  /* Experience  */
