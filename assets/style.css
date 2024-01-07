@@ -1,29 +1,23 @@
  
  /* color palette 1*/
  
- #4E494F
+ /* #4E494F
  #E3ECFA
- #5A81AE
+ #5A81AE */
 
  /* color palette 2 */
 
- #4E494F
+ /* #4E494F
  #D3CDD4
  #00AA9D
- #6E5D72
+ #6E5D72 */
  
  
  
- /* Header */
- /* Navigation   */
- /* About Me  */
-
- #about-me {
-    background-color: #00AA9D ;
-}
-
-
- /* Experience  */
-/* Projects  */
- /* Contact  */
-/* Footer   */
+ /* Hero section*/
+ .bgimage {
+    height: 100vh;
+    background: url('');
+    background-size: cover;
+    position: relative;
+ }
