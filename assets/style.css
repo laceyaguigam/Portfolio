@@ -12,7 +12,10 @@
  #00AA9D
  #6E5D72 */
  
- 
+ /*Navigation */
+ .navbarScroll .navbarDark {
+    background-color:black;
+ }
  
  /* Hero background*/
  .bgimage {
